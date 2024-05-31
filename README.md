@@ -1,4 +1,4 @@
-# Problem_Documentation
+# Problems_Documentation
 ## Java Script
 - writing ejs in a script is giving me the error 'Expression expected'<br/>
 
